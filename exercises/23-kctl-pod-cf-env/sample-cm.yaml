@@ -7,4 +7,4 @@ metadata:
 data:
   KEY-01: VAL1
   KEY.02: VAL2
-  KEY_02: VAL3
+  KEY_03: VAL3
