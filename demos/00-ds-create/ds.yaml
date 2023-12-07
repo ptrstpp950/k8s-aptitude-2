@@ -21,5 +21,5 @@ spec:
         effect: NoSchedule
       containers:
       - name: dumpster-ds-pod-container
-        image: gutek/dumpser:v1
+        image: gutek/dumpster:v1
       terminationGracePeriodSeconds: 30
